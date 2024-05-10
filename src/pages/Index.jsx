@@ -46,6 +46,7 @@ const Index = () => {
           icon={<FaPlus />}
           onClick={addTask}
           ml={2}
+          colorScheme="green"
         />
       </Flex>
       <List spacing={3}>
